@@ -24,3 +24,6 @@ Support location-based marketing and inventory decisions
 
 🛠 Tools & Techniques:
 Power BI | DAX | Data Modeling | Interactive Visualizations
+
+Screenshots/ demos:
+https://github.com/Arnabg-dot/blinkit-dashboard/blob/main/blinkit%20dahboard.PNG
